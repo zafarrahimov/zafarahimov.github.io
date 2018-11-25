@@ -1,0 +1,41 @@
+     a{
+	font-family:"Times New Roman",Georgia,Serif;
+	color:#BF3554;
+	text-align:left;
+	font-size:20px;
+}
+     body{font-family:"cursive",fantasy;
+font-size:15pt;
+color:black;
+text-align:left;
+
+}
+     h3{text-align:center;
+color:#FFDE0A;
+font-size:25px;
+font-family: "arial";
+}
+     h2{color:red;
+	 text-align:center;
+font-size:35px;
+font-family:"times";
+}
+     p{color:#00FF26;
+font-size:15px;
+font-family:"sans-serif";
+text-align:left;
+}
+     body{font-family:"monospace";
+color:#9352DD;
+background-color:#2A211C;
+
+}
+     h4{color:#00A6FF;text-align:left;
+font-size:23px;
+font-family:"fantasy";
+}
+     h1{color:#FF0D09;
+font-family:"courier";
+text-align:center;
+
+}
